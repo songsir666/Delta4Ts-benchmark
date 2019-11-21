@@ -1,0 +1,61 @@
+----------------------------------------------
+v0 to v1
+----------------------------------------------
+This is a very minor revision.
+
+----------------------------------------------
+v1 to v2
+----------------------------------------------
+There are some important changes to the
+methods sed uses to compile and execute 
+commands.
+
+----------------------------------------------
+v2 to v3
+----------------------------------------------
+Includes changes like bug fixes and
+performance "tweaks".
+
+----------------------------------------------
+v3 to v4
+----------------------------------------------
+Another minor revision.
+
+----------------------------------------------
+v4 to v5
+----------------------------------------------
+This version shift is the largest we have
+in our repository.
+
+The development of sed v4 to v5 spans almost
+5 years!  Needless to say, the differences
+between sed.c from v4 and sed.c from v5
+are astounding--nearly every "major" function
+has been changed significantly.
+
+For the SIR project, this version change
+represents the sometimes dramatic changes a 
+piece of software can endure when new 
+developers work on the project (as is the case
+with sed, in this example).
+
+Consider v5 the "overhaul" version that brings
+sed from its more archaic (mid 90s IS archaic!)
+versions to the versions most users probably
+have installed on their workstations (i.e.
+versions in the 4.1.*+range)
+
+----------------------------------------------
+v5 to v6
+----------------------------------------------
+This revision allows for some interesting
+fault insertion.
+
+----------------------------------------------
+v6 to v7
+----------------------------------------------
+Yet another farily large "leap" from true
+sed versions that we're using for SIR.
+Thankfully, the changes are not nearly as 
+messy as v4 to v5 and allow for plenty of
+areas to embed mistakes.
